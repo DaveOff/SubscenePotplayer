@@ -26,7 +26,7 @@ string API_URL = "https://faranevis.com";
 
 array<array<string>> LangTable = 
 {
-    { "fa", "persian" }
+    { "fa", "farsi" }
 };
 
 string GetTitle()
